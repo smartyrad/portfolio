@@ -101,7 +101,7 @@ h3 {
 	height: 100vh;
 }
 #intro.section {
-	background: url(../../static/img/anitaborg-dp.jpeg) no-repeat top center/cover;
+	background: url(../../static/img/mypic.jpeg) no-repeat top center/cover;
 	position: relative;
 }
 #intro.section .container {
